@@ -1,0 +1,6 @@
+{
+  "name": "ParçaMerkezi - Beyaz Eşya Yedek Parça",
+  "description": "Türkiye'nin güvenilir beyaz eşya yedek parça platformu. Çamaşır, bulaşık, buzdolabı ve fırın parçaları için model uyumluluk sorgulama, orijinal ve A-kalite parçalar, aynı gün kargo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
